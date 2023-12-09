@@ -1,0 +1,3 @@
+Then, we download a text file for testing. In my case, the script from MGS2 did the work.
+
+Now, on to the WordCount script. For local testing, we will use a file from our file system.
